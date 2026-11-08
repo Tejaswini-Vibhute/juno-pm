@@ -4,18 +4,18 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+(https://lovable.dev/preview/Hiv2DJPoOwgoUHLBUJHcPWXyW9YE5seF)
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+It prioritizes and higlights issues based on the impact, urgency, frequency and risk.
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** The scoring is transparent. Every issue shows its four parts (Customer Impact, Urgency, Frequency, Business Risk), and anything Juno assumed rather than read from the text is marked "assumed," with a "provisional" flag when too much was guessed. That honesty made the demo credible.
+- **What broke / felt like a toy:** The Risk & Escalation page is derived from the same rules, so it can feel like a re-skin of the priority list rather than independent judgment.
+- **What I'd change next pass:** Add detailed actions
