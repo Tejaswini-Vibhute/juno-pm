@@ -4,7 +4,8 @@
 
 ## Prototype link
 
-(https://lovable.dev/preview/Hiv2DJPoOwgoUHLBUJHcPWXyW9YE5seF)
+(https://lovable.dev/preview/Hiv2DJPoOwgoUHLBUJHcPWXyW9YE5seF) - Expired
+(https://lovable.dev/preview/zf4Raxfvn6ClzP4N8BAzXQ6sKcVieU7V) - New link
 
 _____
 
