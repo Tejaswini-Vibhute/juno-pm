@@ -5,7 +5,8 @@
 ## Prototype link
 
 (https://lovable.dev/preview/Hiv2DJPoOwgoUHLBUJHcPWXyW9YE5seF) - Expired
-(https://lovable.dev/preview/zf4Raxfvn6ClzP4N8BAzXQ6sKcVieU7V) - New link
+(https://lovable.dev/preview/zf4Raxfvn6ClzP4N8BAzXQ6sKcVieU7V) - Expired
+(https://lovable.dev/preview/gSLGat5aGgfCG3ilGTttPB3K9VlgGtsW) - New link
 
 _____
 
